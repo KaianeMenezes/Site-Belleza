@@ -14,11 +14,14 @@ Loja criada para estudo e portfólio, com foco em:
 - Experiência do usuário
 - Layout responsivo
 
-## 🖼️ Preview
+## 🏠 Página Inicial
+![Home](./belleza1.png)
 
-![Home](./beleza1.png)
-![Produtos](./beleza3.png)
-![Contato](./beleza4.png)
+## 🛍️ Produtos
+![Produtos](./belleza3.png)
+
+## 📞 Contato
+![Contato](./belleza4.png)
 
 ## 🚀 Plataforma
 Nuvemshop
