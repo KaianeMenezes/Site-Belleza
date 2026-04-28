@@ -5,7 +5,7 @@ Loja de Cosmetico
 Projeto modelo de loja virtual desenvolvido na Nuvemshop.
 
 ## 🔗 Acesse a loja
-https://SEULINKAQUI.com.br
+(https://kaianemenezes.lojavirtualnuvem.com.br/?exit_preview_theme_installation)
 
 ## ✨ Sobre o projeto
 Loja criada para estudo e portfólio, com foco em:
