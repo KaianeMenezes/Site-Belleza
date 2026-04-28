@@ -16,9 +16,9 @@ Loja criada para estudo e portfólio, com foco em:
 
 ## 🖼️ Preview
 
-![Home](link-da-imagem)
-![Produtos](link-da-imagem)
-![Contato](link-da-imagem)
+![Home](./beleza1.png)
+![Produtos](./beleza3.png)
+![Contato](./beleza4.png)
 
 ## 🚀 Plataforma
 Nuvemshop
