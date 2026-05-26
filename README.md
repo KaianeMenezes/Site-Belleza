@@ -40,3 +40,10 @@ Loja criada para estudo e portfólio, com foco em:
 
 ## 🚀 Plataforma
 Nuvemshop
+
+---
+
+## 👩🏻‍💻 Desenvolvido por
+
+**Kaiane Menezes**  
+Social Media • Web Design
