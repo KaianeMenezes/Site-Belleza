@@ -4,6 +4,21 @@ Loja de Cosmetico
 
 Projeto modelo de loja virtual desenvolvido na Nuvemshop.
 
+## Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- Nuvemshop
+
+## Minha atuação
+
+- Desenvolvimento da identidade visual
+- Personalização da interface
+- Estruturação do layout responsivo
+- Organização visual dos produtos
+- Configuração da experiência mobile
+
 ## 🔗 Acesse a loja
 (https://kaianemenezes.lojavirtualnuvem.com.br/?exit_preview_theme_installation)
 
